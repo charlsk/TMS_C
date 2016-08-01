@@ -61,5 +61,7 @@ public class TeacherMngmnt {
 	        System.out.println(" Subjects:"+ T_Subjects);
 	        System.out.println(" Number of Classrooms:"+ T_classRooms);
 	        System.out.println(" Hours per day:"+ T_NoHrs);
+	        
+	        System.out.println(" Hours per day:"+ T_NoHrs);
 		}	   
 }
