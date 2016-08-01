@@ -25,6 +25,7 @@ public class TeacherMngmnt {
 		
 	        Scanner Tdetails=new Scanner(System.in);
 	        System.out.println("Welcome to teacher management system:");
+	        System.out.println("_______________________________________");
 	        System.out.println("Enter the name of the teacher:");
 	        T_name=Tdetails.next();
 	        System.out.println("Enter the gender:");
